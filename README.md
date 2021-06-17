@@ -1,2 +1,2 @@
 # Algorithms
-Java algorithms
+Java-related items clustered
